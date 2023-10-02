@@ -1,6 +1,6 @@
 # Contributing to [Your Game Development Organization Name]
 
-Thank you for your interest in contributing to [Your Game Development Organization Name](https://github.com/your-organization)! We welcome contributions from the community to help us improve and grow our game projects.
+Thank you for your interest in contributing to [Your Game Development Organization Name](https://github.com/Obsidian-Dynasty-Online)! We welcome contributions from the community to help us improve and grow our game projects.
 
 Please take a moment to read through this document to understand how you can contribute and collaborate with us effectively.
 
