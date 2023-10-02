@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to [Obsidian Dynasty](https://github.com/Obsidian-Dynasty-Online)! To ensure a welcoming and inclusive environment for all, we have established this Code of Conduct. We expect all members, contributors, and participants to follow these guidelines.
+Welcome to [Obsidian Dynasty](https://github.com/Obsidian-Dynasty)! To ensure a welcoming and inclusive environment for all, we have established this Code of Conduct. We expect all members, contributors, and participants to follow these guidelines.
 
 ## Our Pledge
 
@@ -34,7 +34,7 @@ Unacceptable behaviors include but are not limited to:
 
 If you witness or experience behavior that violates this Code of Conduct, please report it to us immediately by contacting [mardavjadaun113@gmail.com](mailto:mardavjadaun113@gmail.com). All reports will be kept confidential.
 
-The administrators of [Odsidian Dynasty](https://github.com/Obsidian-Dynasty-Online) are responsible for enforcing this Code of Conduct. They will review and address all reports promptly and confidentially. They have the right and responsibility to remove, edit, or reject comments, code, issues, or other contributions that are not aligned with this Code of Conduct.
+The administrators of [Odsidian Dynasty](https://github.com/Obsidian-Dynasty) are responsible for enforcing this Code of Conduct. They will review and address all reports promptly and confidentially. They have the right and responsibility to remove, edit, or reject comments, code, issues, or other contributions that are not aligned with this Code of Conduct.
 
 ## Consequences of Unacceptable Behavior
 
@@ -42,6 +42,6 @@ Unacceptable behavior will not be tolerated within our community. Anyone who vio
 
 ## Acknowledgments
 
-We are committed to providing a welcoming and respectful environment for all members of [Obsidian Dynasty](https://github.com/Obsidian-Dynasty-Online). By following this Code of Conduct, we aim to create a safe and inclusive community where everyone can collaborate and thrive.
+We are committed to providing a welcoming and respectful environment for all members of [Obsidian Dynasty](https://github.com/Obsidian-Dynasty). By following this Code of Conduct, we aim to create a safe and inclusive community where everyone can collaborate and thrive.
 
-We welcome your assistance in upholding these standards. Thank you for helping us make [Obsidian Dynasty](https://github.com/Obsidian-Dynasty-Online) a positive and respectful place for all.
+We welcome your assistance in upholding these standards. Thank you for helping us make [Obsidian Dynasty](https://github.com/Obsidian-Dynasty) a positive and respectful place for all.
