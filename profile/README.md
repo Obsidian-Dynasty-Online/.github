@@ -1,4 +1,4 @@
-# Obsidian Dynasty Online
+# Obsidian Dynasty
 
 Welcome to the official GitHub repository of [Obsidian Dynasty](https://github.com/Obsidian-Dynasty-Online)!
 
