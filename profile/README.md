@@ -1,10 +1,10 @@
 # Obsidian Dynasty Online
 
-Welcome to the official GitHub repository of [Obsidian Dynasty Online](https://github.com/Obsidian-Dynasty-Online)!
+Welcome to the official GitHub repository of [Obsidian Dynasty](https://github.com/Obsidian-Dynasty-Online)!
 
 ## About Us
 
-[Odsidian Dynasty Online](https://github.com/Obsidian-Dynasty-Online) is dedicated to creating exciting and innovative games that entertain, challenge, and inspire players around the world. We are passionate about game development and open-source collaboration, and we're thrilled to share our projects with the community.
+[Odsidian Dynasty](https://github.com/Obsidian-Dynasty-Online) is dedicated to creating exciting and innovative games that entertain, challenge, and inspire players around the world. We are passionate about game development and open-source collaboration, and we're thrilled to share our projects with the community.
 
 ## Projects
 
@@ -54,4 +54,4 @@ If you love our games and want to support our development efforts, you can:
 
 - **Financial Support**: Consider donating to help us cover server costs, purchase assets, and support ongoing development. You can donate via [PayPal](https://www.paypal.com/donate?business=your%40email.com).
 
-Thank you for being a part of the [Obsidian Dynasty Online](https://github.com/Obsidian-Dynasty-Online) community!
+Thank you for being a part of the [Obsidian Dynasty](https://github.com/Obsidian-Dynasty-Online) community!
