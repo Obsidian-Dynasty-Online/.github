@@ -26,15 +26,15 @@ We welcome contributions from the community. Whether you're a developer, designe
 
 - **Documentation**: If you're good at writing, you can contribute by improving documentation, creating tutorials, or updating this README.
 
-Please review our [Contribution Guidelines](CONTRIBUTING.md) for more details on how to get involved.
+Please review our [Contribution Guidelines](profile/CONTRIBUTING.md) for more details on how to get involved.
 
 ## Code of Conduct
 
-We have a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all contributors, maintainers, and community members to adhere to. Please read it before participating.
+We have a [Code of Conduct](profile/CODE_OF_CONDUCT.md) that we expect all contributors, maintainers, and community members to adhere to. Please read it before participating.
 
 ## License
 
-All of our projects are open-source and released under the [License Name](LICENSE.md). Please review the individual project repositories for specific licensing information.
+All of our projects are open-source and released under the [License Name](profile/LICENSE.md). Please review the individual project repositories for specific licensing information.
 
 ## Contact
 
