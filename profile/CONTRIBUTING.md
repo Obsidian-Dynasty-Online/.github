@@ -84,4 +84,4 @@ Feel free to reach out if you have questions or need assistance with your contri
 
 ## Acknowledgments
 
-We appreciate your valuable contributions to Obsidian Dynasty Online. Your help makes our projects better and more enjoyable for everyone. Thank you for being a part of our community!
+We appreciate your valuable contributions to Obsidian Dynasty. Your help makes our projects better and more enjoyable for everyone. Thank you for being a part of our community!
